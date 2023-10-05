@@ -1,0 +1,12 @@
+.env
+hotel.db
+hotel_booking_data.csv
+Kultyshev_Dmitriy_Final_project_task.ipynb
+mini_hotel_booking_data.csv
+test.py
+
+venv/
+venv_win/
+Новая папка/
+.idea/
+__pycache__
